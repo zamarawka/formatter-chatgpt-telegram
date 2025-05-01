@@ -1,0 +1,17 @@
+# Source
+/src
+
+# Tests
+/tests
+/coverage
+jest.config.ts
+
+# Dev files
+.gitignore
+.github
+tsconfig.json
+.prettierrc.json
+
+# Misc
+*.log
+/node_modules
